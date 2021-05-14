@@ -1,6 +1,4 @@
-# -*- coding: utf-8 -*-
 import os
-import telebot
 
 from aiohttp import ClientSession
 from aiogram import Bot, types
